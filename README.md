@@ -18,3 +18,7 @@ I wanted to make this website because of me learning about coding for almost a h
 
 ![main menu](https://github.com/skinnybeans17/python-study-guide/blob/main/images/Screen%20Shot%202022-01-13%20at%201.00.11%20PM.png)
 ![first sub-page](https://github.com/skinnybeans17/python-study-guide/blob/main/images/Screen%20Shot%202022-01-13%20at%201.00.38%20PM.png)
+
+## Original info for flash cards credit
+
+Python Flash Cards: Syntax, Concepts, and Examples (c) Eric Matthes, 2019. Credit goes to him for helping me out with his set of flashcards for this project!
